@@ -28,7 +28,7 @@ const requestListener = function(req, res) {
     
     switch (req.url) {
         case "/usuarios":
-            res.writeHead(204);
+            res.writeHead(200);
             res.end((usuarios));
             break;
         
