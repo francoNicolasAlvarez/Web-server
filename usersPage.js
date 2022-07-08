@@ -12,11 +12,11 @@ class Usuario{
         this.Country=Country;
     }
 }
-const juan = new Usuario(1,"Juan","Perez",5,"Argentina");
-const jean= new Usuario(2,"Jean","Pier",31,"Francia");
-const lucas= new Usuario(3,"Lucas","Johnson",29,"Inglaterra");
-const kylian= new Usuario(4,"Kylian","Mbappé",22,"Francia");
-const eduardo= new Usuario(5,"Eduardo","Montes",17,"Chile");
+const juan = new Usuario(1,"Juan", "Perez", 5, "Argentina");
+const jean = new Usuario(2, "Jean", "Pier", 31, "Francia");
+const lucas = new Usuario(3, "Lucas", "Johnson", 29, "Inglaterra");
+const kylian = new Usuario(4, "Kylian", "Mbappé", 22, "Francia");
+const eduardo = new Usuario(5, "Eduardo", "Montes", 17, "Chile");
 
 
 const arrUsers = [juan,jean,lucas,kylian,eduardo];
