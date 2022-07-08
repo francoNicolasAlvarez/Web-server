@@ -1,0 +1,11 @@
+{
+  "name": "web-server-usuarios",
+  "version": "1.0.0",
+  "description": "package para la creacion de un web server que muestre un array",
+  "main": "usersPage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franco Nicolás Álvarez San Emeterio",
+  "license": "ISC"
+}
